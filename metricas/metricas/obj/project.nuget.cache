@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmWSJwlQ0X5qCjMTLMwdbsYMpcX6q/mzVg4JO7eh7tcE6DfKEIt1C3u416KkPIIwcx3wvgLdzoXvfVZbHagQEA==",
+  "success": true,
+  "projectFilePath": "/home/mateus/Inteli/Modulo10-Everymind/M10S4-metricas/metricas/metricas/metricas.csproj",
+  "expectedPackageFiles": [
+    "/home/mateus/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/mateus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/mateus/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
